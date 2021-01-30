@@ -1,2 +1,2 @@
 # vue-workspace
-vue-project
+vue.js 기초
